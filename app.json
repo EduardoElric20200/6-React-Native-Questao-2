@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "App de Viagens",
+    "slug": "app-viagens",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "appviagens",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"]
+  }
+}
